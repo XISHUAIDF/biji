@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "法律/宪法.md",
+                "file": "法律/民法/物权.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "宪法"
+              "title": "物权"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "备案",
+                "query": "居住权",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,6 +210,7 @@
   "active": "b509cd039393fbfe",
   "lastOpenFiles": [
     "面试/面试.md",
+    "法律/民法/物权.md",
     "法律/宪法.md",
     "公专/督察.md",
     "公专/风险防范.md",
@@ -232,7 +232,6 @@
     "公专/行政执法依据.md",
     "法律/犯罪论.md",
     "README.md",
-    "法律/民法/物权.md",
     "法律/行政强制.md",
     "行测/常识/文化.md",
     "法律/民法",
