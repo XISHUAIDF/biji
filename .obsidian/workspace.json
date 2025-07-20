@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "居住权",
+                "query": "居住",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,6 +212,7 @@
   "lastOpenFiles": [
     "面试/面试.md",
     "法律/民法/物权.md",
+    "行测/常识.md",
     "法律/宪法.md",
     "公专/督察.md",
     "公专/风险防范.md",
@@ -235,7 +237,6 @@
     "法律/行政强制.md",
     "行测/常识/文化.md",
     "法律/民法",
-    "行测/常识.md",
     "行测/常识",
     "法律/民法.md",
     "公专/应急处理.md",
