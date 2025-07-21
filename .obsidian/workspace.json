@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "法律/民法/物权.md",
+                "file": "法律/国家机构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "物权"
+              "title": "国家机构"
             }
           },
           {
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87ed0b6082c758f2",
+  "active": "b509cd039393fbfe",
   "lastOpenFiles": [
-    "面试/面试.md",
     "法律/民法/物权.md",
+    "面试/面试.md",
     "行测/常识.md",
     "法律/宪法.md",
     "公专/督察.md",
