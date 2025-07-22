@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/类比.md",
+                "file": "行测/数量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "类比"
+              "title": "数量"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "组织管理"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,8 +222,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b509cd039393fbfe",
+  "active": "1317a65e8292c6a3",
   "lastOpenFiles": [
+    "行测/判断.md",
+    "行测/逻辑关系.md",
+    "行测/类比.md",
+    "行测/图推.md",
+    "面试/面试.md",
     "公专/群众工作.md",
     "公专/未命名.md",
     "公专/警务保障.md",
@@ -230,15 +236,11 @@
     "公专/核心价值观.md",
     "公专/督察.md",
     "行测/言语.md",
-    "行测/类比.md",
     "政治理论/科学发展观.md",
     "行测/资料.md",
     "行测/细节理解.md",
-    "行测/逻辑关系.md",
-    "行测/判断.md",
     "行测/时政.md",
     "行测/数字推理.md",
-    "行测/图推.md",
     "行测/常识.md",
     "行测/数量.md",
     "申论/公文.md",
@@ -248,7 +250,6 @@
     "政治理论/毛泽东思想.md",
     "政治理论/马克思.md",
     "政治理论/邓.md",
-    "面试/面试.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "法律/民法",
