@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/a数量/排列组合.md",
+                "file": "行测/a数量/工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "排列组合"
+              "title": "工程"
+            }
+          },
+          {
+            "id": "6735de40ef39d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/面试.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "面试"
             }
           },
           {
@@ -55,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/a数量/最值.md",
+                "file": "法律/犯罪论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最值"
+              "title": "犯罪论"
             }
           },
           {
@@ -69,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/a数量/最值.md",
+                "file": "行测/a数量/经济利润.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最值"
+              "title": "经济利润"
             }
           },
           {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "听证申请期限",
+                "query": "银行",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,35 +264,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b6233a320dabb39",
+  "active": "1317a65e8292c6a3",
   "lastOpenFiles": [
-    "行测/言语/填空.md",
-    "面试/面试.md",
-    "行测/言语",
-    "行测/a数量/最值.md",
-    "政治理论/科学发展观.md",
-    "公专/组织管理.md",
-    "行测/a数量/排列组合.md",
-    "行测/推理.md",
+    "行测/a数量/总结.md",
+    "行测/a数量/工程.md",
     "行测/判断.md",
+    "行测/推理.md",
+    "面试/面试.md",
+    "行测/a数量/排列组合.md",
+    "行测/a数量/经济利润.md",
+    "行测/a数量/行程.md",
+    "行测/a数量/多位数.md",
+    "法律/犯罪论.md",
+    "行测/数字/分数.md",
+    "行测/数字/递推.md",
+    "行测/a数量/最值.md",
+    "公专/组织管理.md",
+    "行测/数字/幂次.md",
+    "行测/数字/机械.md",
+    "行测/数字/多重.md",
+    "行测/数字/多级.md",
+    "行测/数字",
+    "行测/未命名.md",
+    "行测/言语/填空.md",
+    "行测/言语",
+    "政治理论/科学发展观.md",
     "行测/a数量/不定方程.md",
     "行测/a数量/计数.md",
     "行测/图推.md",
     "行测/a数量/钟表.md",
     "行测/a数量/分段.md",
-    "行测/a数量/容斥.md",
-    "行测/a数量/和差倍比.md",
-    "行测/a数量/统筹规划.md",
-    "行测/a数量/日期.md",
-    "行测/a数量/经济利润.md",
-    "行测/a数量/概率.md",
-    "行测/a数量/几何.md",
-    "行测/a数量/数列.md",
-    "行测/a数量/行程.md",
-    "行测/a数量/工程.md",
-    "行测/a数量/溶液.md",
-    "行测/a数量/平均数.md",
-    "行测/a数量/多位数.md",
     "行测/a数量",
     "未命名 1.canvas",
     "未命名.canvas",
@@ -299,7 +314,6 @@
     "Pasted image 20250610125049.png",
     "Pasted image 20250610123142.png",
     "申论",
-    "Untitled.canvas",
-    "Untitled 1"
+    "Untitled.canvas"
   ]
 }
