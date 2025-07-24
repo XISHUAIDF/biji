@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,8 +264,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1317a65e8292c6a3",
+  "active": "6735de40ef39d6ae",
   "lastOpenFiles": [
+    "行测/a数量/行程.md",
     "行测/a数量/周期.md",
     "行测/a数量/溶液.md",
     "行测/a数量/日期.md",
@@ -276,7 +277,6 @@
     "行测/a数量/统筹规划.md",
     "行测/a数量/最值.md",
     "行测/a数量/总结.md",
-    "行测/a数量/行程.md",
     "行测/a数量/钟表.md",
     "行测/a数量/数列.md",
     "行测/a数量/平均数.md",
