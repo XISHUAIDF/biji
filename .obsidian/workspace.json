@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/数字/机械.md",
+                "file": "公专/应急处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "机械"
+              "title": "应急处理"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "念兹在兹",
+                "query": "值班负责人",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,6 +253,10 @@
   },
   "active": "1317a65e8292c6a3",
   "lastOpenFiles": [
+    "公专/调查取证.md",
+    "公专/群众工作.md",
+    "公专/原则路线.md",
+    "行测/数字/机械.md",
     "行测/a数量/行程.md",
     "行测/言语/成语积累.md",
     "行测/言语/填空.md",
@@ -274,10 +279,6 @@
     "法律/深入.md",
     "法律/宪法.md",
     "法律/听证.md",
-    "法律/知识产权.md",
-    "法律/易错挖坑.md",
-    "法律/行政强制.md",
-    "法律/刑法.md",
     "行测/数字",
     "行测/言语",
     "行测/a数量",
