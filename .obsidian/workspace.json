@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "检举",
+                "query": "矿藏",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b509cd039393fbfe",
+  "active": "87ed0b6082c758f2",
   "lastOpenFiles": [
     "法律/刑法.md",
     "法律/宪法.md",
