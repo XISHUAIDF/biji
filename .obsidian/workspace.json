@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "法律/宪法.md",
+                "file": "申论/大作文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "宪法"
+              "title": "大作文"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "政治理论/马克思.md",
+                "file": "法律/国家机构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "马克思"
+              "title": "国家机构"
             }
           },
           {
@@ -91,7 +91,8 @@
               "title": "组织管理"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "矿藏",
+                "query": "紧急状态",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,10 +250,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87ed0b6082c758f2",
+  "active": "420f4ac6fa949c91",
   "lastOpenFiles": [
+    "法律/国家赔偿.md",
+    "法律/偏难小众.md",
+    "法律/行政强制.md",
     "法律/刑法.md",
+    "法律/听证.md",
     "法律/宪法.md",
+    "行测/常识.md",
+    "公专/调查取证.md",
+    "政治理论/邓.md",
+    "政治理论/马克思.md",
+    "申论/大作文.md",
     "法律/村民基层治理.md",
     "行测/a数量/和差倍比.md",
     "行测/a数量/几何.md",
@@ -269,15 +278,6 @@
     "行测/数字/机械.md",
     "行测/数字/多重.md",
     "行测/数字/分数.md",
-    "申论/大作文.md",
-    "行测/言语.md",
-    "法律/听证.md",
-    "申论/申论.md",
-    "申论/公文.md",
-    "行测/言语/填空.md",
-    "行测/常识/文化.md",
-    "政治理论/科学发展观.md",
-    "政治理论/综合.md",
     "行测/判断",
     "Pasted image 20250813213103.png",
     "行测/数字",
