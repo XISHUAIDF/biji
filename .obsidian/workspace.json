@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "申论/大作文.md",
+                "file": "行测/言语/阅读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大作文"
+              "title": "阅读"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "请愿",
+                "query": "黄河站",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,6 +241,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -252,6 +253,28 @@
   },
   "active": "420f4ac6fa949c91",
   "lastOpenFiles": [
+    "政治理论/马克思.md",
+    "行测/常识/科技.md",
+    "行测/a数量/和差倍比.md",
+    "行测/言语/填空.md",
+    "申论/大作文.md",
+    "行测/判断/推理.md",
+    "行测/判断/削弱.md",
+    "Pasted image 20250813213103.png",
+    "Pasted image 20250612100742.png",
+    "Pasted image 20250610184934.png",
+    "Pasted image 20250610004220.png",
+    "Pasted image 20250609131034.png",
+    "Pasted image 20250608153634.png",
+    "Pasted image 20250608121751.png",
+    "Pasted image 20250608141548.png",
+    "Untitled.md",
+    "README.md",
+    "Pasted image 20250527191838.png.md",
+    "行测/言语/阅读.md",
+    "行测/判断.md",
+    "行测/言语.md",
+    "行测/常识/文化.md",
     "法律/国家机构.md",
     "法律/国家赔偿.md",
     "法律/偏难小众.md",
@@ -262,24 +285,9 @@
     "行测/常识.md",
     "公专/调查取证.md",
     "政治理论/邓.md",
-    "政治理论/马克思.md",
-    "申论/大作文.md",
     "法律/村民基层治理.md",
-    "行测/a数量/和差倍比.md",
     "行测/a数量/几何.md",
-    "公专/行政管理能力.md",
-    "公专/业务能力.md",
-    "公专/行政决定.md",
-    "公专/应急处理.md",
-    "公专/执法依据.md",
-    "法律/民法.md",
-    "行测/数字/其他.md",
-    "行测/数字/多级.md",
-    "行测/数字/递推.md",
-    "行测/数字/机械.md",
-    "行测/数字/多重.md",
     "行测/判断",
-    "Pasted image 20250813213103.png",
     "行测/数字",
     "行测/言语",
     "行测/a数量",
@@ -292,14 +300,7 @@
     "法律/民法",
     "未命名",
     "政治理论",
-    "Pasted image 20250612100742.png",
     "Pasted image 20250612001541.png",
-    "Pasted image 20250612000934.png",
-    "Pasted image 20250611234027.png",
-    "Pasted image 20250611233738.png",
-    "Pasted image 20250611232347.png",
-    "Pasted image 20250610184934.png",
-    "Pasted image 20250610125049.png",
     "Untitled.canvas"
   ]
 }
