@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "申论/大作文.md",
+                "file": "prompt/ds提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大作文"
+              "title": "ds提示词"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "组织管理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "和差倍",
+                "query": "人一样",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,20 +251,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "420f4ac6fa949c91",
+  "active": "87ed0b6082c758f2",
   "lastOpenFiles": [
-    "行测/常识.md",
+    "面试/面试.md",
+    "prompt/ds提示词.md",
+    "prompt",
     "申论/大作文.md",
+    "行测/a数量/和差倍比.md",
+    "行测/常识.md",
     "行测/图推.md",
     "行测/判断.md",
     "行测/数字/分数.md",
     "行测/a数量/数列.md",
     "行测/言语/填空.md",
-    "面试/面试.md",
     "行测/言语/阅读.md",
     "政治理论/马克思.md",
     "行测/常识/科技.md",
-    "行测/a数量/和差倍比.md",
     "行测/判断/推理.md",
     "行测/判断/削弱.md",
     "Pasted image 20250813213103.png",
@@ -287,7 +288,6 @@
     "法律/行政强制.md",
     "法律/刑法.md",
     "法律/听证.md",
-    "法律/宪法.md",
     "行测/判断",
     "行测/数字",
     "行测/言语",
@@ -299,7 +299,6 @@
     "Pasted image 20250628221732.png",
     "面试",
     "法律/民法",
-    "未命名",
     "政治理论",
     "Pasted image 20250612001541.png",
     "Untitled.canvas"
