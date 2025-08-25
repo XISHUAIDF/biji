@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/常识.md",
+                "file": "行测/a数量/和差倍比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常识"
+              "title": "和差倍比"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "数列",
+                "query": "和差倍",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,13 +254,13 @@
   },
   "active": "420f4ac6fa949c91",
   "lastOpenFiles": [
+    "行测/常识.md",
     "申论/大作文.md",
     "行测/图推.md",
     "行测/判断.md",
     "行测/数字/分数.md",
     "行测/a数量/数列.md",
     "行测/言语/填空.md",
-    "行测/常识.md",
     "面试/面试.md",
     "行测/言语/阅读.md",
     "政治理论/马克思.md",
