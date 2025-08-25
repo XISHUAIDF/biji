@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/言语/阅读.md",
+                "file": "行测/常识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阅读"
+              "title": "常识"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄河站",
+                "query": "数列",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "搜索"
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,11 +254,18 @@
   },
   "active": "420f4ac6fa949c91",
   "lastOpenFiles": [
+    "申论/大作文.md",
+    "行测/图推.md",
+    "行测/判断.md",
+    "行测/数字/分数.md",
+    "行测/a数量/数列.md",
+    "行测/言语/填空.md",
+    "行测/常识.md",
+    "面试/面试.md",
+    "行测/言语/阅读.md",
     "政治理论/马克思.md",
     "行测/常识/科技.md",
     "行测/a数量/和差倍比.md",
-    "行测/言语/填空.md",
-    "申论/大作文.md",
     "行测/判断/推理.md",
     "行测/判断/削弱.md",
     "Pasted image 20250813213103.png",
@@ -271,8 +279,6 @@
     "Untitled.md",
     "README.md",
     "Pasted image 20250527191838.png.md",
-    "行测/言语/阅读.md",
-    "行测/判断.md",
     "行测/言语.md",
     "行测/常识/文化.md",
     "法律/国家机构.md",
@@ -282,11 +288,6 @@
     "法律/刑法.md",
     "法律/听证.md",
     "法律/宪法.md",
-    "行测/常识.md",
-    "公专/调查取证.md",
-    "政治理论/邓.md",
-    "法律/村民基层治理.md",
-    "行测/a数量/几何.md",
     "行测/判断",
     "行测/数字",
     "行测/言语",
