@@ -144,8 +144,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87ed0b6082c758f2",
+  "active": "e8def09463056897",
   "lastOpenFiles": [
     "面试/面试.md",
     "prompt/ds提示词.md",
