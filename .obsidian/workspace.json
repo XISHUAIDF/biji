@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/ds提示词.md",
+                "file": "行测/a数量/经济利润.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ds提示词"
+              "title": "经济利润"
             }
           },
           {
@@ -250,20 +250,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8def09463056897",
+  "active": "b509cd039393fbfe",
   "lastOpenFiles": [
-    "面试/面试.md",
+    "行测/言语/阅读.md",
+    "行测/言语/填空.md",
+    "行测/a数量/数列.md",
+    "行测/a数量/容斥.md",
+    "行测/a数量/经济利润.md",
+    "行测/a数量/日期.md",
+    "行测/a数量/和差倍比.md",
     "prompt/ds提示词.md",
+    "面试/面试.md",
     "prompt",
     "申论/大作文.md",
-    "行测/a数量/和差倍比.md",
     "行测/常识.md",
     "行测/图推.md",
     "行测/判断.md",
     "行测/数字/分数.md",
-    "行测/a数量/数列.md",
-    "行测/言语/填空.md",
-    "行测/言语/阅读.md",
     "政治理论/马克思.md",
     "行测/常识/科技.md",
     "行测/判断/推理.md",
@@ -284,9 +287,6 @@
     "法律/国家机构.md",
     "法律/国家赔偿.md",
     "法律/偏难小众.md",
-    "法律/行政强制.md",
-    "法律/刑法.md",
-    "法律/听证.md",
     "行测/判断",
     "行测/数字",
     "行测/言语",
