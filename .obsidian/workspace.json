@@ -15,7 +15,7 @@
               "state": {
                 "file": "政治理论/科学发展观.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "科学发展观"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人一样",
+                "query": "又好又快",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,8 +251,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b509cd039393fbfe",
+  "active": "87ed0b6082c758f2",
   "lastOpenFiles": [
+    "行测/常识/历史.md",
+    "政治理论/科学发展观.md",
     "政治理论/邓.md",
     "政治理论/党史.md",
     "行测/a数量/经济利润.md",
@@ -285,8 +288,6 @@
     "Pasted image 20250608153634.png",
     "Pasted image 20250608121751.png",
     "Pasted image 20250608141548.png",
-    "Untitled.md",
-    "README.md",
     "行测/判断",
     "行测/数字",
     "行测/言语",
