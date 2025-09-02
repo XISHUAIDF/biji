@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/a数量/经济利润.md",
+                "file": "政治理论/科学发展观.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "经济利润"
+              "title": "科学发展观"
             }
           },
           {
@@ -252,9 +252,11 @@
   },
   "active": "b509cd039393fbfe",
   "lastOpenFiles": [
+    "政治理论/邓.md",
+    "政治理论/党史.md",
+    "行测/a数量/经济利润.md",
     "行测/a数量/计数.md",
     "行测/a数量/平均数.md",
-    "行测/a数量/经济利润.md",
     "政治理论/马克思.md",
     "行测/判断/加强.md",
     "行测/a数量/总结.md",
@@ -285,8 +287,6 @@
     "Pasted image 20250608141548.png",
     "Untitled.md",
     "README.md",
-    "Pasted image 20250527191838.png.md",
-    "行测/言语.md",
     "行测/判断",
     "行测/数字",
     "行测/言语",
