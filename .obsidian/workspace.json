@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/组合推理.md",
+                "file": "申论/大作文.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "组合推理"
+              "title": "大作文"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "查漏补缺：错位重排",
+                "query": "形成“投入—升级—增效”的螺",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +144,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,10 +250,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87ed0b6082c758f2",
+  "active": "b509cd039393fbfe",
   "lastOpenFiles": [
-    "申论/大作文.md",
     "行测/组合推理.md",
+    "行测/组合排列.md",
+    "行测/资料.md",
+    "申论/大作文.md",
     "行测/言语/阅读.md",
     "政治理论/新时代.md",
     "行测/言语/填空.md",
@@ -277,8 +278,6 @@
     "行测/a数量/容斥.md",
     "行测/a数量/日期.md",
     "行测/a数量/和差倍比.md",
-    "prompt/ds提示词.md",
-    "面试/面试.md",
     "prompt",
     "Pasted image 20250813213103.png",
     "Pasted image 20250612100742.png",
