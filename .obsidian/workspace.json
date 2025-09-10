@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/言语/填空.md",
+                "file": "法律/刑法.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "填空"
+              "title": "刑法"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "运用“不一而足",
+                "query": "假释",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,6 +253,11 @@
   },
   "active": "87ed0b6082c758f2",
   "lastOpenFiles": [
+    "法律/多知识点对比易错.md",
+    "法律/刑法.md",
+    "公专/执法依据.md",
+    "公专/刑事执法依据.md",
+    "行测/言语/填空.md",
     "行测/言语/修改病句.md",
     "行测/a数量/排列组合.md",
     "行测/a数量/平均数.md",
@@ -266,7 +271,6 @@
     "行测/资料.md",
     "行测/言语/阅读.md",
     "政治理论/新时代.md",
-    "行测/言语/填空.md",
     "行测/a数量/经济利润.md",
     "行测/a数量/数列.md",
     "行测/a数量/钟表.md",
@@ -275,10 +279,6 @@
     "行测/判断/加强.md",
     "政治理论/党史.md",
     "申论/公文.md",
-    "政治理论/科学发展观.md",
-    "行测/常识/历史.md",
-    "政治理论/邓.md",
-    "行测/a数量/计数.md",
     "prompt",
     "Pasted image 20250813213103.png",
     "Pasted image 20250612100742.png",
