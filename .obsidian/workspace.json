@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/常识/文化.md",
+                "file": "法律/民法/物权.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "文化"
+              "title": "物权"
             }
           },
           {
@@ -151,8 +151,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "星期二",
-                "matchingCase": false,
+                "query": "清偿",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -279,17 +279,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e1bea1cfd641413",
+  "active": "b509cd039393fbfe",
   "lastOpenFiles": [
+    "法律/民法.md",
+    "法律/民法/物权.md",
+    "法律/知识产权.md",
+    "公专/组织管理.md",
+    "公专/应急处理.md",
+    "行测/常识/文化.md",
     "行测/a数量/周期.md",
     "行测/言语/修改病句.md",
     "行测/言语/填空.md",
     "行测/常识/科技.md",
-    "行测/常识/文化.md",
     "法律/国家机构.md",
     "法律/宪法.md",
     "行测/常识.md",
-    "法律/民法.md",
     "面试/辅警面试.md",
     "面试/面试.md",
     "行测/a数量/排列组合.md",
@@ -303,10 +307,6 @@
     "行测/a数量/容斥.md",
     "行测/言语.md",
     "申论/大作文.md",
-    "行测/组合推理.md",
-    "行测/组合排列.md",
-    "行测/资料.md",
-    "行测/言语/阅读.md",
     "prompt",
     "Pasted image 20250813213103.png",
     "Pasted image 20250612100742.png",
