@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "法律/法理学.md",
+                "file": "行测/常识/文化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "法理学"
+              "title": "文化"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "及时",
+                "query": "逻辑顺序",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -293,10 +294,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf9495d73dc54154",
+  "active": "87ed0b6082c758f2",
   "lastOpenFiles": [
-    "行测/数字/多级.md",
+    "行测/言语/修改病句.md",
+    "行测/排序.md",
+    "行测/数字/幂次.md",
+    "行测/a数量/最值.md",
+    "行测/a数量/计数.md",
+    "行测/a数量/平均数.md",
+    "行测/a数量/日期.md",
+    "行测/a数量/溶液.md",
+    "行测/a数量/总结.md",
+    "行测/a数量/周期.md",
+    "行测/常识.md",
+    "政治理论/党史.md",
+    "政治理论/毛泽东思想.md",
+    "政治理论/综合.md",
+    "申论/大作文.md",
+    "申论/申论.md",
     "法律/法理学.md",
+    "行测/数字/多级.md",
     "公专/组织管理.md",
     "法律/民法.md",
     "法律/宪法.md",
@@ -305,22 +322,6 @@
     "法律/行政强制.md",
     "法律/易错挖坑.md",
     "公专/应急处理.md",
-    "行测/a数量/周期.md",
-    "行测/排序.md",
-    "行测/数字/分数.md",
-    "行测/言语/修改病句.md",
-    "公专/调查取证.md",
-    "行测/常识.md",
-    "法律/国家机构.md",
-    "公专/行政执法依据.md",
-    "行测/言语/填空.md",
-    "法律/国家赔偿.md",
-    "行测/言语.md",
-    "行测/常识/文化.md",
-    "行测/常识/历史.md",
-    "申论/公文.md",
-    "申论/大作文.md",
-    "法律/民法/物权.md",
     "prompt",
     "Pasted image 20250813213103.png",
     "Pasted image 20250612100742.png",
