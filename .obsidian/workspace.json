@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "法律/民法.md",
+                "file": "法律/刑法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "民法"
+              "title": "刑法"
             }
           },
           {
@@ -125,15 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/常识/文化.md",
+                "file": "政治理论/马克思.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文化"
+              "title": "马克思"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -165,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "法定继承",
+                "query": " 841，846，856，867，880",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -295,37 +296,37 @@
   },
   "active": "87ed0b6082c758f2",
   "lastOpenFiles": [
-    "法律/刑法.md",
-    "法律/国家机构.md",
-    "法律/行政强制.md",
-    "法律/听证.md",
-    "行测/常识/历史.md",
-    "行测/常识/文化.md",
-    "行测/判断.md",
-    "行测/a数量/经济利润.md",
-    "政治理论/马克思.md",
-    "行测/数字推理.md",
-    "文档.md",
+    "行测/言语/阅读.md",
     "行测/言语/填空.md",
-    "行测/a数量/计数.md",
-    "行测/a数量/概率.md",
-    "行测/a数量/多位数.md",
-    "行测/常识/科技.md",
-    "行测/a数量/周期.md",
+    "行测/判断.md",
+    "行测/推理.md",
+    "行测/逻辑关系.md",
+    "行测/组合推理.md",
+    "公专/业务能力.md",
+    "行测/言语.md",
+    "行测/判断/削弱.md",
+    "行测/数字/多级.md",
+    "行测/数字/机械.md",
+    "行测/判断/加强.md",
+    "政治理论/马克思.md",
+    "行测/时政.md",
+    "行测/常识/文化.md",
+    "申论/申论.md",
+    "申论/大作文.md",
+    "申论/公文.md",
+    "政治理论/邓.md",
+    "政治理论/综合.md",
+    "政治理论/科学发展观.md",
+    "政治理论/毛泽东思想.md",
+    "政治理论/新时代.md",
+    "政治理论/党史.md",
+    "行测/资料.md",
+    "行测/言语/语句排序.md",
     "未命名.base",
     "未命名.canvas",
     "未命名 1.base",
     "未命名 2.base",
     "未命名 3.base",
-    "法律/偏难小众.md",
-    "公专/刑事执法依据.md",
-    "公专/调查取证.md",
-    "法律/民法.md",
-    "法律/犯罪论.md",
-    "法律/知识产权.md",
-    "法律/深入.md",
-    "法律/法理学.md",
-    "法律/村民基层治理.md",
     "Pasted image 20251005161007.png",
     "Pasted image 20250928215109.png",
     "Pasted image 20250928192529.png",
