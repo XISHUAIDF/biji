@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "模考数量/模拟题3.md",
-                "bFile": "模考数量/模拟题3.md",
+                "aFile": "模考数量/模拟题1.md",
+                "bFile": "模考数量/模拟题1.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 模拟题3"
+              "title": "Diff: 模拟题1"
             }
           }
         ]
@@ -182,7 +182,22 @@
   },
   "active": "83b5c8ed9323a31d",
   "lastOpenFiles": [
+    "政治理论/综合.md",
+    "政治理论/邓.md",
+    "政治理论/asset",
+    "政治理论/asset/{513526D6-57FC-4969-A340-61336C8F1F6B}.png",
+    "模考数量/_resources/模拟题5",
+    "模考数量/_resources",
+    "模考数量/模拟题5.md",
+    "模考数量/asset/{513526D6-57FC-4969-A340-61336C8F1F6B}.png",
+    "701a5ecb271b4e2afb2d5227a25ec4d5_MD5.jpg",
+    "{176F1046-4272-4B99-A646-FB49473FF699}.png",
+    "模考数量/asset/Pasted image 20260314005221851.png",
+    "模考数量/asset/Pasted image 20260314005220421.png",
+    "模考数量/模拟题4.md",
+    "模考数量/模拟题1.md",
     "行测/图推.md",
+    "模考数量/asset",
     "行测/asset/Pasted image 20250610184934.png",
     "行测/a数量/概率/给概率求概率.md",
     "行测/数量.md",
@@ -195,7 +210,6 @@
     "模考数量/模拟题2.md",
     "政治理论/马克思.md",
     "行测/a数量/工程.md",
-    "模考数量/模拟题1.md",
     "模考数量",
     "行测/组合排列.md",
     "文档.md",
@@ -209,25 +223,12 @@
     "行测/a数量/容斥（两集合）.md",
     "行测/a数量/年龄.md",
     "行测/a数量/经济利润.md",
-    "行测/a数量/和差倍比.md",
-    "行测/a数量/平均数.md",
-    "法律/法理学.md",
     "未命名.base",
     "未命名.canvas",
     "未命名 1.base",
     "未命名 2.base",
-    "未命名 3.base",
     "行测/asset/Pasted image 20251005161007.png",
     "行测/asset/Pasted image 20250928215109.png",
-    "行测/asset/Pasted image 20250928192529.png",
-    "prompt",
-    "行测/asset/Pasted image 20250813213103.png",
-    "行测/asset/Pasted image 20250612100742.png",
-    "行测/asset/Pasted image 20250610004220.png",
-    "行测/asset/Pasted image 20250609131034.png",
-    "行测/asset/Pasted image 20250608153634.png",
-    "行测/判断",
-    "行测/数字",
     "未命名 1.canvas",
     "Untitled.canvas"
   ]
