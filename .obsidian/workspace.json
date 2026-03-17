@@ -11,14 +11,14 @@
             "id": "225e83ec99f675ab",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "政治理论/党史.md",
-                "bFile": "政治理论/党史.md",
-                "aRef": ""
+                "file": "实战总结/事业编统考.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 党史"
+              "icon": "lucide-file",
+              "title": "事业编统考"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "225e83ec99f675ab",
   "lastOpenFiles": [
+    "实战总结/事业编统考.md",
+    "实战总结",
     "行测/常识.md",
     "行测/逻辑关系.md",
     "行测/资料.md",
@@ -206,7 +208,6 @@
     "行测/数字/多级.md",
     "行测/数字/分数.md",
     "行测/数字/其他.md",
-    "行测/图推.md",
     "模考数量/_resources/模拟题5/a637db1c3c75370934e52a03e0ad391e_MD5.jpg",
     "模考数量/_resources/模拟题5",
     "模考数量/_resources",
@@ -227,7 +228,6 @@
     "未命名.base",
     "未命名.canvas",
     "未命名 1.base",
-    "未命名 2.base",
     "未命名 1.canvas",
     "Untitled.canvas"
   ]
