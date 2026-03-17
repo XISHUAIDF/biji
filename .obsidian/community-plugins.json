@@ -1,7 +1,6 @@
 [
   "obsidian-pandoc",
-  "better-export-pdf",
   "obsidian-git",
   "obsidian-meta-bind-plugin",
-  "obsidian-local-images-plus"
+  "better-export-pdf"
 ]
